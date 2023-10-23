@@ -1,7 +1,7 @@
 
 <body>
 
-<h1>Pandas-Notes</h1>
+<h1>Pandas</h1>
 
 <p>Este repositorio contiene mis notas y apuntes sobre la librería Pandas en Python, utilizada para la manipulación y análisis de datos. Agradezco a mi profesor Alejandro Gamarra por su valiosa enseñanza y apoyo en mi aprendizaje de análisis de datos.</p>
 
